@@ -3,7 +3,7 @@ tiny-ps4-shell is a small telnet server for the PS4 with a couple of basic
 UNIX-like commands, e.g., cd, mkdir, stat, etc.
 
 ## Building
-Assuming you have [the Open Orbis SDK][openorbis] (tested with v0.5.2)
+Assuming you have [the Open Orbis SDK][openorbis] (tested with v0.5.2) and imagemagick (for icon conversion)
 installed on you machine, tiny-ps4-shell can be compiled using the following
 two commands:
 
